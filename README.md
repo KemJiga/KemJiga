@@ -12,6 +12,10 @@ I'm currently working on sharpening my technical and soft skills, to bring the b
 ![](https://nirzak-streak-stats.vercel.app/?user=KemJiga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KemJiga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📫 How to reach me
+- Email: [kemerjg@gmail.com](mailto:kemerjg@gmail.com)
+- LinkedIn: [Kemer Jimenez Garcia](https://linkedin.com/in/kemjiga)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=KemJiga&icon=0&color=0)](https://visitcount.itsvg.in)
 
